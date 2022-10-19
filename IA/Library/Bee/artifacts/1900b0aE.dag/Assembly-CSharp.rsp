@@ -349,10 +349,10 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
-"Assets/flock.cs"
-"Assets/FlockManager.cs"
-"Assets/navigation.cs"
-"Assets/seek.cs"
+"Assets/scripts/flock.cs"
+"Assets/scripts/FlockManager.cs"
+"Assets/scripts/navigation.cs"
+"Assets/scripts/seek.cs"
 -langversion:9.0
 
 /deterministic
